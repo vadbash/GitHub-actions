@@ -22,5 +22,5 @@ jobs:
 
     - name: Run unittest
       run: |
-        cd actions
+        cd gitactions
         python3 manage.py test
