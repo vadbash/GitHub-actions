@@ -1,6 +1,6 @@
-name: Start Djnago
+name: Start Djnago project
 
-on: [push]
+on: [pull]
 
 
 jobs:
